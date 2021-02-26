@@ -1,0 +1,6 @@
+
+
+SELECT * FROM CLIENTE where CIDADE = 'Rio de Janeiro' ;
+DELETE FROM CLIENTE WHERE CIDADE = 'Londrina';
+
+SELECT * FROM CLIENTE
